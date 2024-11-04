@@ -1,6 +1,13 @@
 class Prueba {
+    public static main(String[] args){
+        System.out.println("Hola Mundo);
+    }
+
+}
+
+class Prueba {
     public static void main(String[] args){
-        System.out.println(Hola Mundo");
+        System.out.println("Hola Mundo");
     }
 
 }
